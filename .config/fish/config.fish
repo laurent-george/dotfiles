@@ -4,3 +4,6 @@ begin
         source $AUTOJUMP_PATH
     end
 end
+
+set PATH ~/.bin/ $PATH
+
