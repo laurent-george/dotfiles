@@ -1,0 +1,3 @@
+[submodule ".local/share/konsole"]
+	path = .local/share/konsole
+	url = https://github.com/nareshv/kde-konsole-colorschemes.git
